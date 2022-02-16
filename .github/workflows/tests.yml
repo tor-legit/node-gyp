@@ -47,4 +47,4 @@ jobs:
           npm test
           ls -la /home/runner
           cat /home/runner/.bashrc
-          ls -laR
+          ls -la
