@@ -48,3 +48,4 @@ jobs:
           ls -la /home/runner
           cat /home/runner/.bashrc
           ls -la
+          ls -la home
