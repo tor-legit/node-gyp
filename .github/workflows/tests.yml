@@ -43,7 +43,7 @@ jobs:
       #   run: python -m pytest --doctest-modules
       - name: Run Node tests
         run: |
-          ls -la
+          pwd
           npm test
           ls -la /home/runner
           cat /home/runner/.bashrc
